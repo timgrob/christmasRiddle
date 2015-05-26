@@ -1,0 +1,4 @@
+AuthUserFile /web/users/aragog.oucs.ox.ac.uk/8/3/scat5120/cgi/.htpasswd
+AuthType Basic
+AuthName "family"
+require valid-user
